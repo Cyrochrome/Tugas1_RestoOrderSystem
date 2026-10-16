@@ -81,6 +81,7 @@ public class Main {
 
         System.out.println("\nKeranjang Pesanan:");
         System.out.println("!----------------------------------------------------!");
+
         if (keranjang[0] == null) {
             System.out.println("Keranjang Anda masih kosong.");
             System.out.println("!----------------------------------------------------!");
